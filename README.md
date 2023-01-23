@@ -1,4 +1,4 @@
-![logo](https://github.com/kawser0334/kawser0334/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
+![logo](https://github.com/kawser0334/kawser0334/blob/main/Modern%20Minimal%20Technology%20Background%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Kowser Miah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
